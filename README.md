@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, my name is Kasım Selimhan Baltaş. I am a 22-year-old Computer Science student at Marmara University. Currently, I am honing my skills in NuxtJS, VueJS, UX, and UI.
+Hello, my name is Kasım Selimhan Baltaş. I am a 22-year-old Computer Science student at Marmara University. Currently, I am honing my skills in React and Angular.
 
 
 ## 🌐 Socials:
